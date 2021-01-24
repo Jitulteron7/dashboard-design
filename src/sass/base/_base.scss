@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family:"TTNorms-Regular";
+    src: url("../Font/TT\ Norms\ sv/TTNorms-Regular.otf");
+}
+body{
+    background-color:var(--backgroundColor);
+    font-family: "TTNorms-Regular";
+    
+ }
+
