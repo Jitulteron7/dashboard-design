@@ -95,6 +95,27 @@ const NavBar=()=>{
                             </div>
                         </div>
                 </div>
+                <div className="cBox Box3 selected">
+                <div className="top">
+                            <div className="info">
+                                <img src="https://images.pexels.com/photos/1043473/pexels-photo-1043473.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"/>
+                                <div>
+                                        <h4>Lucy Robin</h4>
+                                        <p>last online 5 hours ago</p>
+                                </div>
+                            </div>
+                            <div class="time">
+                                    3 days ago
+                            </div>
+                        </div>
+                        <div className="para">
+                            <p>Cicero famously orated against his political opponent Lucius Sergius Catilina.</p>
+                            <div>
+                                <div class="bell"><p>2</p></div>
+                            </div>
+                        </div>
+                </div>
+                
             </div>
         </div>
         </>)

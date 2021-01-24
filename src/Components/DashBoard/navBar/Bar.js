@@ -12,15 +12,15 @@ const NavBar=()=>{
                     <h2>Henry Jabbawockiez&nbsp; <i class="fas fa-chevron-down"></i> </h2>
                 </div>
                 <ul>
-                    <Link to ="#"><li><i class="fas fa-th-large"></i> &nbsp; &nbsp;Home</li></Link>
-                    <Link to ="#"><li><i class="far fa-comment-dots"></i> &nbsp; &nbsp;Chat</li></Link>
-                    <Link to ="#"><li><i class="far fa-user"></i> &nbsp; &nbsp;Contact</li></Link>
-                    <Link to ="#"><li><i class="far fa-bell"></i> &nbsp; &nbsp;Notifications</li></Link>
-                    <Link to ="#"><li><i class="far fa-calendar-alt"></i> &nbsp; &nbsp;Calender</li></Link>
-                    <Link to ="#"><li><i class="fas fa-cog"></i> &nbsp; &nbsp;Settings</li></Link>
+                    <Link to ="#"><li><i class="fas fa-th-large"></i> &nbsp; &nbsp;&nbsp;&nbsp;Home</li></Link>
+                    <Link to ="#"><li><i class="far fa-comment-dots"></i> &nbsp; &nbsp;&nbsp;&nbsp;Chat</li></Link>
+                    <Link to ="#"><li><i class="far fa-user"></i> &nbsp; &nbsp;&nbsp;&nbsp;Contact</li></Link>
+                    <Link to ="#"><li><i class="far fa-bell"></i> &nbsp; &nbsp;&nbsp;&nbsp;Notifications</li></Link>
+                    <Link to ="#"><li><i class="far fa-calendar-alt"></i> &nbsp; &nbsp;&nbsp;&nbsp;Calender</li></Link>
+                    <Link to ="#"><li><i class="fas fa-cog"></i> &nbsp; &nbsp;&nbsp;&nbsp;Settings</li></Link>
                 </ul>
                 <div className="out">
-                     <h3>LOG OUT</h3>
+                     <h3><i class="fas fa-power-off"></i> &nbsp;&nbsp;&nbsp;&nbsp; LOG OUT</h3>
                 </div>
             </nav>
             
